@@ -60,6 +60,123 @@
 </div>
 
 ## 👋 hello
+# 🚀 AI Model Tutorials (50+ Notebooks)
+*✨ One-click notebooks | Latest models | Performance benchmarks | Community favorites*
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; margin-top: 30px;">
+
+<!-- Card 1 - RF-DETR -->
+<div style="background: white; border-radius: 12px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='none'">
+  
+  ### 🔧 Fine-Tune RF-DETR
+  *State-of-the-art transformer detection*
+  
+  <div style="margin: 15px 0; display: flex; gap: 10px;">
+    <span style="background: #e3f2fd; color: #1976d2; padding: 3px 10px; border-radius: 20px; font-size: 0.8em;">🎯 Object Detection</span>
+    <span style="background: #fff8e1; color: #ff8f00; padding: 3px 10px; border-radius: 20px; font-size: 0.8em;">⭐⭐ Intermediate</span>
+  </div>
+  
+  **Key Features:**
+  - 92% Accuracy | 2h Training Time
+  - Supports Colab & Kaggle
+  - Pretrained weights included
+  
+  <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://colab.research.google.com/github/roboflow-ai/notebooks" style="background: #f9ab00; color: white; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
+      <span>Open in Colab</span>
+    </a>
+    <a href="https://github.com/roboflow/rf-detr" style="border: 1px solid #3a4b8c; color: #3a4b8c; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
+      <span style="margin-right: 5px;">💻</span> GitHub
+    </a>
+  </div>
+  
+  <div style="font-size: 0.9em; color: #666;">
+    <strong>Resources:</strong>
+    <ul style="margin-top: 8px; padding-left: 20px;">
+      <li><a href="https://blog.roboflow.com/rf-detr" style="color: #3a4b8c;">📝 Blog Guide</a></li>
+      <li><a href="https://universe.roboflow.com" style="color: #3a4b8c;">📊 Sample Dataset</a></li>
+      <li><a href="https://youtu.be/demo" style="color: #3a4b8c;">▶️ Tutorial Video</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Card 2 - YOLOE -->
+<div style="background: white; border-radius: 12px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='none'">
+  
+  ### ✨ Zero-Shot YOLOE
+  *Detect unseen objects without training*
+  
+  <div style="margin: 15px 0; display: flex; gap: 10px;">
+    <span style="background: #e1f5fe; color: #0288d1; padding: 3px 10px; border-radius: 20px; font-size: 0.8em;">🖼️ Detection+Segmentation</span>
+    <span style="background: #ffebee; color: #d32f2f; padding: 3px 10px; border-radius: 20px; font-size: 0.8em;">⭐⭐⭐ Advanced</span>
+  </div>
+  
+  **Key Features:**
+  - 0.85 mAP | 62 FPS
+  - Zero-shot capability
+  - Multi-platform support
+  
+  <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://colab.research.google.com/github/roboflow-ai/notebooks" style="background: #f9ab00; color: white; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
+      <span>Open in Colab</span>
+    </a>
+    <a href="https://arxiv.org/abs/2503.07465" style="border: 1px solid #3a4b8c; color: #3a4b8c; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
+      <span style="margin-right: 5px;">📜</span> Research Paper
+    </a>
+  </div>
+  
+  <div style="font-size: 0.9em; color: #666;">
+    <strong>Resources:</strong>
+    <ul style="margin-top: 8px; padding-left: 20px;">
+      <li><a href="https://youtu.be/eHAnIehnCt4" style="color: #3a4b8c;">▶️ Demo Video</a></li>
+      <li><a href="https://github.com/THU-MIG/yoloe" style="color: #3a4b8c;">💻 GitHub Repo</a></li>
+      <li><a href="https://forum.roboflow.com" style="color: #3a4b8c;">💡 Community Forum</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Card 3 - YOLOv12 -->
+<div style="background: white; border-radius: 12px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='none'">
+  
+  ### ⚡ YOLOv12 Training
+  *Ultra-fast object detection*
+  
+  <div style="margin: 15px 0; display: flex; gap: 10px;">
+    <span style="background: #e8f5e9; color: #388e3c; padding: 3px 10px; border-radius: 20px; font-size: 0.8em;">🚀 Real-time</span>
+    <span style="background: #f3e5f5; color: #8e24aa; padding: 3px 10px; border-radius: 20px; font-size: 0.8em;">⭐⭐ Intermediate</span>
+  </div>
+  
+  **Key Features:**
+  - 8ms latency
+  - Easy training pipeline
+  - Optimized for edge devices
+  
+  <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://colab.research.google.com/github/roboflow-ai/notebooks" style="background: #f9ab00; color: white; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
+      <span>Open in Colab</span>
+    </a>
+    <a href="https://blog.roboflow.com/yolov12" style="border: 1px solid #3a4b8c; color: #3a4b8c; padding: 8px 15px; border-radius: 6px; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
+      <span style="margin-right: 5px;">📝</span> Benchmarks
+    </a>
+  </div>
+  
+  <div style="font-size: 0.9em; color: #666;">
+    <strong>Resources:</strong>
+    <ul style="margin-top: 8px; padding-left: 20px;">
+      <li><a href="https://github.com/sunsmarterjie/yolov12" style="color: #3a4b8c;">💻 GitHub Repo</a></li>
+      <li><a href="https://arxiv.org/abs/2502.12524" style="color: #3a4b8c;">📜 Research Paper</a></li>
+      <li><a href="https://universe.roboflow.com" style="color: #3a4b8c;">📊 Custom Dataset Guide</a></li>
+    </ul>
+  </div>
+</div>
+
+</div>
+
+<div style="text-align: center; margin-top: 40px;">
+  <a href="https://github.com/roboflow-ai/notebooks" style="display: inline-block; background: linear-gradient(90deg, #6e48aa 0%, #9d50bb 100%); color: white; padding: 12px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.1em; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 20px rgba(110, 72, 170, 0.4)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
+    Explore All 50+ Notebooks →
+  </a>
+</div>
 
 This repository offers a growing collection of computer vision tutorials. Learn to use SOTA models like YOLOv11, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5-VL for tasks ranging from object detection, segmentation, and pose estimation to data extraction and OCR. Dive in and explore the exciting world of computer vision!
 
@@ -69,153 +186,6 @@ This repository offers a growing collection of computer vision tutorials. Learn 
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
-<!-- AI Tutorials Dashboard Component -->
-<div class="ai-tutorials" style="
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  max-width: 1400px;
-  margin: 2rem auto;
-  background: #ffffff;
-  border-radius: 18px;
-  box-shadow: 0 12px 40px rgba(0,0,0,0.08);
-  overflow: hidden;
-">
-
-  <!-- Header Section -->
-  <div class="header" style="
-    background: linear-gradient(135deg, #4F46E5 0%, #9333EA 100%);
-    padding: 2.5rem;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-  ">
-    <div style="
-      position: absolute;
-      top: -50px;
-      right: -50px;
-      width: 150px;
-      height: 150px;
-      background: rgba(255,255,255,0.1);
-      border-radius: 50%;
-    "></div>
-    <h1 style="
-      margin: 0;
-      font-size: 2.4rem;
-      color: white;
-      font-weight: 700;
-      letter-spacing: -0.025em;
-    ">
-      🚀 AI Mastery Hub
-    </h1>
-    <p style="
-      margin: 0.75rem 0 0;
-      color: rgba(255,255,255,0.9);
-      font-size: 1.1rem;
-      max-width: 600px;
-      margin-left: auto;
-      margin-right: auto;
-    ">
-      Explore 50+ hands-on tutorials with state-of-the-art models, curated datasets, and production-ready implementations
-    </p>
-  </div>
-
-  <!-- Stats Bar -->
-  <div class="stats" style="
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
-    padding: 1.5rem;
-    background: #f8fafc;
-    border-bottom: 1px solid #e2e8f0;
-  ">
-    <div class="stat-item" style="
-      text-align: center;
-      padding: 1rem;
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.04);
-    ">
-      <div style="font-size: 1.8rem; font-weight: 700; color: #4F46E5;">50+</div>
-      <div style="color: #64748b; font-size: 0.9rem;">Jupyter Notebooks</div>
-    </div>
-    <div class="stat-item" style="...">...</div>
-  </div>
-
-  <!-- Interactive Filters -->
-  <div class="filters" style="
-    padding: 1.5rem;
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    background: white;
-    border-bottom: 1px solid #e2e8f0;
-  ">
-    <button class="filter-btn active" style="...">🔥 Trending</button>
-    <button class="filter-btn" style="...">🧠 Deep Learning</button>
-    ...
-  </div>
-
-  <!-- Tutorial Cards Grid -->
-  <div class="tutorial-grid" style="
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
-    padding: 2rem;
-  ">
-    <!-- Tutorial Card 1 -->
-    <div class="tutorial-card" style="
-      background: white;
-      border-radius: 16px;
-      overflow: hidden;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    ">
-      <div class="card-header" style="
-        background: #f0f4ff;
-        padding: 1.25rem;
-        position: relative;
-      ">
-        <div style="...">🔥 New</div>
-        <h3 style="...">🔧 Fine-Tune RF-DETR</h3>
-        <p style="...">Advanced transformer detection</p>
-      </div>
-      
-      <div class="card-body" style="padding: 1.25rem;">
-        <div class="badge-group" style="...">
-          <span style="...">🎯 Object Detection</span>
-          <span style="...">⭐ 1.5k Votes</span>
-        </div>
-        
-        <div class="metrics" style="...">
-          <div class="metric-item">
-            <span>Accuracy</span>
-            <div class="progress-bar" style="...">
-              <div class="progress-fill" style="width: 92%"></div>
-            </div>
-          </div>
-          ...
-        </div>
-
-        <div class="platform-links" style="...">
-          <a href="..." style="..." class="colab-btn">
-            <img src="colab-icon.svg" alt="Colab" style="...">
-            Open in Colab
-          </a>
-          ...
-        </div>
-      </div>
-    </div>
-
-    <!-- Additional cards would follow the same structure -->
-  </div>
-
-  <!-- Footer CTA -->
-  <div class="footer-cta" style="...">
-    <p style="...">Ready to supercharge your AI skills?</p>
-    <a href="..." style="..." class="cta-button">
-      🚀 Explore All Tutorials
-    </a>
-  </div>
-</div>
 ## 🚀 Model Tutorials (50+ Notebooks)
 
 | **Tutorial** | **Task** | **Platforms** | **Resources** |
