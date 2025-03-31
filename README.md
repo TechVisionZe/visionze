@@ -69,7 +69,153 @@ This repository offers a growing collection of computer vision tutorials. Learn 
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+<!-- AI Tutorials Dashboard Component -->
+<div class="ai-tutorials" style="
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  max-width: 1400px;
+  margin: 2rem auto;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.08);
+  overflow: hidden;
+">
 
+  <!-- Header Section -->
+  <div class="header" style="
+    background: linear-gradient(135deg, #4F46E5 0%, #9333EA 100%);
+    padding: 2.5rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  ">
+    <div style="
+      position: absolute;
+      top: -50px;
+      right: -50px;
+      width: 150px;
+      height: 150px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 50%;
+    "></div>
+    <h1 style="
+      margin: 0;
+      font-size: 2.4rem;
+      color: white;
+      font-weight: 700;
+      letter-spacing: -0.025em;
+    ">
+      🚀 AI Mastery Hub
+    </h1>
+    <p style="
+      margin: 0.75rem 0 0;
+      color: rgba(255,255,255,0.9);
+      font-size: 1.1rem;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    ">
+      Explore 50+ hands-on tutorials with state-of-the-art models, curated datasets, and production-ready implementations
+    </p>
+  </div>
+
+  <!-- Stats Bar -->
+  <div class="stats" style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    padding: 1.5rem;
+    background: #f8fafc;
+    border-bottom: 1px solid #e2e8f0;
+  ">
+    <div class="stat-item" style="
+      text-align: center;
+      padding: 1rem;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+    ">
+      <div style="font-size: 1.8rem; font-weight: 700; color: #4F46E5;">50+</div>
+      <div style="color: #64748b; font-size: 0.9rem;">Jupyter Notebooks</div>
+    </div>
+    <div class="stat-item" style="...">...</div>
+  </div>
+
+  <!-- Interactive Filters -->
+  <div class="filters" style="
+    padding: 1.5rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    background: white;
+    border-bottom: 1px solid #e2e8f0;
+  ">
+    <button class="filter-btn active" style="...">🔥 Trending</button>
+    <button class="filter-btn" style="...">🧠 Deep Learning</button>
+    ...
+  </div>
+
+  <!-- Tutorial Cards Grid -->
+  <div class="tutorial-grid" style="
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem;
+  ">
+    <!-- Tutorial Card 1 -->
+    <div class="tutorial-card" style="
+      background: white;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    ">
+      <div class="card-header" style="
+        background: #f0f4ff;
+        padding: 1.25rem;
+        position: relative;
+      ">
+        <div style="...">🔥 New</div>
+        <h3 style="...">🔧 Fine-Tune RF-DETR</h3>
+        <p style="...">Advanced transformer detection</p>
+      </div>
+      
+      <div class="card-body" style="padding: 1.25rem;">
+        <div class="badge-group" style="...">
+          <span style="...">🎯 Object Detection</span>
+          <span style="...">⭐ 1.5k Votes</span>
+        </div>
+        
+        <div class="metrics" style="...">
+          <div class="metric-item">
+            <span>Accuracy</span>
+            <div class="progress-bar" style="...">
+              <div class="progress-fill" style="width: 92%"></div>
+            </div>
+          </div>
+          ...
+        </div>
+
+        <div class="platform-links" style="...">
+          <a href="..." style="..." class="colab-btn">
+            <img src="colab-icon.svg" alt="Colab" style="...">
+            Open in Colab
+          </a>
+          ...
+        </div>
+      </div>
+    </div>
+
+    <!-- Additional cards would follow the same structure -->
+  </div>
+
+  <!-- Footer CTA -->
+  <div class="footer-cta" style="...">
+    <p style="...">Ready to supercharge your AI skills?</p>
+    <a href="..." style="..." class="cta-button">
+      🚀 Explore All Tutorials
+    </a>
+  </div>
+</div>
 ## 🚀 Model Tutorials (50+ Notebooks)
 
 | **Tutorial** | **Task** | **Platforms** | **Resources** |
