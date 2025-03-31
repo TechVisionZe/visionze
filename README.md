@@ -52,8 +52,8 @@ Almost every week we create tutorials showing you the hottest models in Computer
 [Subscribe](https://www.youtube.com/@Roboflow), and stay up to date with our latest YouTube videos!
 
 <p align="left">
-<a href="[https://youtu.be/CilXrt3S-ws](https://youtu.be/Xe5wW-V95wE?si=zbRUkCKOSfRnwHAR)" title="How to Choose the Best Computer Vision Model for Your Project"><img src="https://github.com/roboflow/notebooks/assets/26109316/73a01d3b-cf70-40c3-a5e4-e4bc5be38d42" alt="How to Choose the Best Computer Vision Model for Your Project" width="300px" align="left" /></a>
-<a href="https://youtu.be/CilXrt3S-ws" title="How to Choose the Best Computer Vision Model for Your Project"><strong>How to Choose the Best Computer Vision Model for Your Project</strong></a>
+<a href="https://www.youtube.com/watch?v=Xe5wW-V95wE" title="How to Choose the Best Computer Vision Model for Your Project"><img src="https://github.com/roboflow/notebooks/assets/26109316/73a01d3b-cf70-40c3-a5e4-e4bc5be38d42" alt="How to Choose the Best Computer Vision Model for Your Project" width="300px" align="left" /></a>
+<a href="https://www.youtube.com/watch?v=Xe5wW-V95wE" title="How to Choose the Best Computer Vision Model for Your Project"><strong>How to Choose the Best Computer Vision Model for Your Project</strong></a>
 <div><strong>Created: 26 May 2023</strong> | <strong>Updated: 26 May 2023</strong></div>
 <br/> In this video, we will dive into the complexity of choosing the right computer vision model for your unique project. From the importance of high-quality datasets to hardware considerations, interoperability, benchmarking, and licensing issues, this video covers it all... </p> <br/>
 
