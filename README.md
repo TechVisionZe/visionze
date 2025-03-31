@@ -10,9 +10,13 @@ This repository is a growing hub for computer vision tutorials, featuring cuttin
 # 🚀 AI Model Tutorials (50+ Notebooks)
 
 ## 🏆 Featured Tutorials
+## 🏆 Featured Tutorials
+
+| Model | Task | Difficulty | Platforms | Resources | Metrics |
+|-------|------|------------|-----------|-----------|---------|
 | **[RF-DETR](https://github.com/roboflow-ai/notebooks)**<br>State-of-the-art transformer detection | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels) | 📝 [Blog](https://blog.roboflow.com/rf-detr)<br>💻 [GitHub](https://github.com/roboflow/rf-detr) | 92% Accuracy<br>2h Training |
 | **[YOLOv12](https://github.com/roboflow-ai/notebooks)**<br>Ultra-fast detection | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels) | 📝 [Benchmarks](https://blog.roboflow.com/yolov12)<br>🛠️ [GitHub](https://github.com/sunsmarterjie/yolov12) | 8ms Latency<br>1.2K Votes |
-| **[PaliGemma2](https://github.com/roboflow-ai/notebooks)**<br>Google's vision model | 🌍 Multimodal AI | ⭐⭐⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?logo=amazonaws&logoColor=white)](https://studiolab.sagemaker.aws) | 📝 [Case Study](https://blog.roboflow.com/paligemma2)<br>🔧 [GitHub](https://github.com/google-research/big_vision) | 89% VQA Acc<br>#1 Trending |
+| **[PaliGemma2](https://github.com/roboflow-ai/notebooks)**<br>Google's vision model | 🌍 Multimodal AI | ⭐⭐⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?logo=amazonaws&logoColor=white)](https://studiolab.sagemaker.aws) | 📝 [Case Study](https://blog.roboflow.com/paligemma2)<br>🔧 [GitHub](https://github.com/google-research/big_vision) | 89% VQA Acc<br>#1 Trending |#1 Trending |
 
 ## 🔍 Tutorials by Category
 
