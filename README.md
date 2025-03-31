@@ -68,6 +68,44 @@ This repository offers a growing collection of computer vision tutorials. Learn 
    WARNING: DO NOT EDIT THIS TABLE MANUALLY. IT IS AUTOMATICALLY GENERATED.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
+# 🚀 AI Model Tutorials (50+ Notebooks)
+*✨ One-click notebooks | Latest models | Performance benchmarks | Community favorites*
+
+## 🏆 Featured Tutorials
+
+| Model | Task | Difficulty | Platforms | Resources | Metrics |
+|-------|------|------------|-----------|-----------|---------|
+| **[RF-DETR](https://github.com/roboflow-ai/notebooks)**<br>State-of-the-art transformer detection | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels) | 📝 [Blog](https://blog.roboflow.com/rf-detr)<br>💻 [GitHub](https://github.com/roboflow/rf-detr) | 92% Accuracy<br>2h Training |
+| **[YOLOv12](https://github.com/roboflow-ai/notebooks)**<br>Ultra-fast detection | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels) | 📝 [Benchmarks](https://blog.roboflow.com/yolov12)<br>🛠️ [GitHub](https://github.com/sunsmarterjie/yolov12) | 8ms Latency<br>1.2K Votes |
+| **[PaliGemma2](https://github.com/roboflow-ai/notebooks)**<br>Google's vision model | 🌍 Multimodal AI | ⭐⭐⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?logo=amazonaws&logoColor=white)](https://studiolab.sagemaker.aws) | 📝 [Case Study](https://blog.roboflow.com/paligemma2)<br>🔧 [GitHub](https://github.com/google-research/big_vision) | 89% VQA Acc<br>#1 Trending |
+
+## 🔍 By Category
+
+### 🎯 Object Detection
+- [Fine-Tune YOLOv10](https://github-link) - [![Colab](colab-badge)] [![Kaggle](kaggle-badge)]  
+- [Fine-Tune RT-DETR](https://github-link) - [![Colab](colab-badge)] [![Kaggle](kaggle-badge)]
+- [Fine-Tune Florence-2](https://github-link) - [![Colab](colab-badge)] [![Kaggle](kaggle-badge)]
+
+### 🖼️ Segmentation
+- [Segment with SAM-2](https://github-link) - [![Colab](colab-badge)] [![Kaggle](kaggle-badge)]  
+- [Fine-Tune SAM-2.1](https://github-link) - [![Colab](colab-badge)] [![Kaggle](kaggle-badge)]
+
+### 📄 Document AI  
+- [Qwen-VL Data Extraction](https://github-link) - [![Colab](colab-badge)] [![Kaggle](kaggle-badge)]
+- [PaliGemma2 for LaTeX OCR](https://github-link) - [![Colab](colab-badge)] [![Kaggle](kaggle-badge)]
+
+## 🌟 New Releases
+| Model | Highlights | 
+|-------|------------|
+| **[GPT-4o](https://github-link)** | OpenAI's multimodal model for detection |
+| **[YOLO11](https://github-link)** | Latest YOLO architecture |
+| **[SAM-2](https://github-link)** | Meta's advanced segmentation |
+
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://github.com/roboflow-ai/notebooks" style="display: inline-block; background: linear-gradient(90deg, #6e48aa 0%, #9d50bb 100%); color: white; padding: 12px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.1em;">
+    Explore All Notebooks on GitHub →
+  </a>
+</div>
 
 ## 🚀 Model Tutorials (50+ Notebooks)
 
