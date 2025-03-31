@@ -57,16 +57,6 @@ Almost every week we create tutorials showing you the hottest models in Computer
 <div><strong>Created: 26 May 2023</strong> | <strong>Updated: 26 May 2023</strong></div>
 <br/> In this video, we will dive into the complexity of choosing the right computer vision model for your unique project. From the importance of high-quality datasets to hardware considerations, interoperability, benchmarking, and licensing issues, this video covers it all... </p> <br/>
 
-<p align="left">
-<a href="https://youtu.be/oEQYStnF2l8" title="Accelerate Image Annotation with SAM and Grounding DINO"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/ae1ca38e-40b7-4b35-8582-e8ea5de3806e" alt="Accelerate Image Annotation with SAM and Grounding DINO" width="300px" align="left" /></a>
-<a href="https://youtu.be/oEQYStnF2l8" title="Accelerate Image Annotation with SAM and Grounding DINO"><strong>Accelerate Image Annotation with SAM and Grounding DINO</strong></a>
-<div><strong>Created: 20 Apr 2023</strong> | <strong>Updated: 20 Apr 2023</strong></div>
-<br/> Discover how to speed up your image annotation process using Grounding DINO and Segment Anything Model (SAM). Learn how to convert object detection datasets into instance segmentation datasets, and see the potential of using these models to automatically annotate your datasets for real-time detectors like YOLOv8... </p> <br/>
-<p align="left">
-<a href="https://youtu.be/D-D6ZmadzPE" title="SAM - Segment Anything Model by Meta AI: Complete Guide"><img src="https://github.com/SkalskiP/SkalskiP/assets/26109316/6913ff11-53c6-4341-8d90-eaff3023c3fd" alt="SAM - Segment Anything Model by Meta AI: Complete Guide" width="300px" align="left" /></a>
-<a href="https://youtu.be/D-D6ZmadzPE" title="SAM - Segment Anything Model by Meta AI: Complete Guide"><strong>SAM - Segment Anything Model by Meta AI: Complete Guide</strong></a>
-<div><strong>Created: 11 Apr 2023</strong> | <strong>Updated: 11 Apr 2023</strong></div>
-
 <br/> Discover the incredible potential of Meta AI's Segment Anything Model (SAM)! We dive into SAM, an efficient and promptable model for image segmentation, which has revolutionized computer vision tasks. With over 1 billion masks on 11M licensed and privacy-respecting images, SAM's zero-shot performance is often superior to prior fully supervised results... </p>
 
 ## 💻 run locally
