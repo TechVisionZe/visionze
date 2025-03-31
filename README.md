@@ -8,7 +8,6 @@ This repository is a growing hub for computer vision tutorials, featuring cuttin
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 # 🚀 AI Model Tutorials (50+ Notebooks)
-*✨ One-click notebooks | Latest models | Performance benchmarks | Community favorites*
 
 ## 🏆 Featured Tutorials
 
