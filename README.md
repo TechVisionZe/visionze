@@ -56,19 +56,3 @@ Stay ahead with weekly videos on the hottest computer vision models!
   <strong>How to Choose the Best Computer Vision Model</strong><br>
   <em>Created: 26 May 2023 | Updated: 26 May 2023</em>
 </p>
-
----
-
-## 💻 Run Locally
-```bash
-# Clone and navigate
-git clone git@github.com:roboflow-ai/notebooks.git
-cd notebooks
-
-# Set up virtual environment
-python3 -m venv venv
-source venv/bin/activate
-
-# Install and launch
-pip install notebook
-jupyter notebook
