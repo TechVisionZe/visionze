@@ -39,7 +39,7 @@
 | **🖼️ Segmentation** | [Segment with SAM-2](#) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#) | 📝 [Blog](#) • 💻 [GitHub](#) |
 
 ---
-## 📸 Computer Vision Skills (21+ Notebooks)
+## 📸 Computer Vision Skills
 | Notebook | Platforms | Resources | Repository |
 |----------|-----------|-----------|------------|
 | [Football AI](#) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#) | 📝 [Blog](https://blog.roboflow.com/camera-calibration-sports-computer-vision/) • ▶️ [Video](https://youtu.be/aBVGKoNZQUw) | 💻 [GitHub](https://github.com/roboflow/sports) |
