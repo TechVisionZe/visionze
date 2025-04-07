@@ -27,7 +27,7 @@
 
 | Model | Task | Difficulty | Platforms | Resources | Metrics |
 |-------|------|------------|-----------|-----------|---------|
-| **[RF-DETR](#)**<br>_Transformer Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#) | 📝 [Blog](https://blog.roboflow.com/rf-detr)<br>💻 [GitHub](#) | 92% Accuracy<br>2h Training |
+| **[RF-DETR](#)**<br>_Transformer Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#) | 📝 [Blog](#)<br>💻 [GitHub](#) | 92% Accuracy<br>2h Training |
 | **[YOLOv12](#)**<br>_Ultra-Fast Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#) | 📝 [Benchmarks](#)<br>🛠️ [GitHub](#) | 8ms Latency<br>1.2K Votes |
 
 ---
