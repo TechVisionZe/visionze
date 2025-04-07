@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1920x320.png?text=TechVisionZe+Portfolio+-+Building+the+Future+of+Computer+Vision" alt="Banner" width="100%">
+  <img src="#" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -13,22 +13,22 @@
 ## 🚀 Featured Projects
 
 ### 🔮 VisionZe - Computer Vision Framework
-[![Repo Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
-[![License](https://img.shields.io/github/license/TechVisionZe/visionze?color=blue&style=flat-square)](https://github.com/TechVisionZe/visionze/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/TechVisionZe/visionze?style=social)](https://github.com/TechVisionZe/visionze/stargazers)
-[![Latest Release](https://img.shields.io/github/v/release/TechVisionZe/visionze?label=Latest%20Version)](https://github.com/TechVisionZe/visionze/releases)
+[![Repo Status](#)]()
+[![License](#)
+[![Stars](#)
+[![Latest Release](#)
 
 **A modular framework for rapid computer vision prototyping**  
 ✅ Real-time inference support  
 ✅ Multi-backend compatibility (ONNX, TensorRT, PyTorch)  
 ✅ Pre-trained model zoo
 
-[![Open in GitHub](https://img.shields.io/badge/View_Repository-2CA5E0?style=for-the-badge&logo=github)](https://github.com/TechVisionZe/visionze)
+[![Open in GitHub](#)
 
 | Model | Task | Difficulty | Platforms | Resources | Metrics |
 |-------|------|------------|-----------|-----------|---------|
-| **[RF-DETR](https://github.com/roboflow-ai/notebooks)**<br>_Transformer Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels) | 📝 [Blog](https://blog.roboflow.com/rf-detr)<br>💻 [GitHub](https://github.com/roboflow/rf-detr) | 92% Accuracy<br>2h Training |
-| **[YOLOv12](https://github.com/roboflow-ai/notebooks)**<br>_Ultra-Fast Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels) | 📝 [Benchmarks](https://blog.roboflow.com/yolov12)<br>🛠️ [GitHub](https://github.com/sunsmarterjie/yolov12) | 8ms Latency<br>1.2K Votes |
+| **[RF-DETR](#)**<br>_Transformer Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#) | 📝 [Blog](https://blog.roboflow.com/rf-detr)<br>💻 [GitHub](#) | 92% Accuracy<br>2h Training |
+| **[YOLOv12](#)**<br>_Ultra-Fast Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#) | 📝 [Benchmarks](#)<br>🛠️ [GitHub](#) | 8ms Latency<br>1.2K Votes |
 
 ---
 ## 🔍 Tutorials by Category
